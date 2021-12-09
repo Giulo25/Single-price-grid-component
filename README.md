@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Giulo25/Single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://giulo25.github.io/Single-price-grid-component/)
 
 ## Author
 
