@@ -35,4 +35,5 @@ Users should be able to:
 
 ## Acknowledgments
 
-For the price sectione put the price inside a span inside a div, then make the div a flex container and use align-item:center to align vertically "per month" to the price.
+For the price section put the price inside a span inside a div, then make the div a flex container and use align-item:center to align vertically "per month" to the price.
+In this way, you can style the price and the text separately.
